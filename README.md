@@ -1,4 +1,18 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋, I am Tushar Gogna</h1>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Seasoned%20Android%20Developer;Certified%20Kotlin%20Developer;Over%209%20years%20of%20coding%20bg;Aspiring%20iOS%20and%20KMP%20developer&font=Fira%20Code&center=true&width=440&height=45&color=48C16B&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+[ <p align="center"><img  src="https://github-readme-stackoverflow.vercel.app/?userID=3531756&theme=dark&layout=compact"></p>](stackoverflow.com/users/3531756/tushar-gogna)
+ 
+ 
+ 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushargogna&locale=en&layout=compact" alt="tg" /></p>
+ <p align="center"><img align="center" src="https://profile-counter.glitch.me/tushargogna/count.svg" alt="tg" /></p>
+
 
 <!--
 **TusharGogna/tushargogna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
