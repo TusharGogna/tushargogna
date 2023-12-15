@@ -29,8 +29,8 @@
 
 <h3 align="center" >You can find me at</h3>
 <div align="center">
-<a href="https://github.com/tushargogna" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://tushargogna.github.io" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=android&logoColor=white alt=Portfolio style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/tushargogna" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -43,6 +43,10 @@
 </a>
 <a href="https://dribbble.com/tushargogna" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
+</a>  
+  </a>
+<a href="https://medium.com/@tushar." target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
  
