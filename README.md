@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://tushargogna.github.io">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Seasoned%20Android%20Developer;Certified%20Kotlin%20Developer;Over%209%20years%20of%20coding%20bg;Aspiring%20iOS%20and%20KMP%20developer&font=Fira%20Code&center=true&width=440&height=45&color=48C16B&vCenter=true&pause=1200&size=28" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Seasoned%20Android%20Developer;Certified%20Kotlin%20Developer;Over%209%20years%20of%20coding%20bg;Aspiring%20KMP%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=48C16B&vCenter=true&pause=1200&size=28" /></a>
 </p>
 </br>
 <div align="center">
