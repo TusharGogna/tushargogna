@@ -1,9 +1,10 @@
 <h3 align="center" >Hi there 👋, I am Tushar Gogna</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://tushargogna.github.io">
     <img src="https://readme-typing-svg.demolab.com/?lines=Seasoned%20Android%20Developer;Certified%20Kotlin%20Developer;Over%209%20years%20of%20coding%20bg;Aspiring%20iOS%20and%20KMP%20developer&font=Fira%20Code&center=true&width=440&height=45&color=48C16B&vCenter=true&pause=1000&size=22" /></a>
 </p>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=tushargogna&&style=flat-square" align="center" />
 </div>  
@@ -25,7 +26,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushargogna&locale=en&layout=compact" alt="tg" /></p>
 
 
- <p align="center"><a href="https://www.last.fm/user/MurdocN"><img src="https://lastfm-recently-played.vercel.app/api?user=MurdocN&count=3&width=300&show_user=footer&footer_style=normal_stats&header_size=normal" height="auto" width="auto"/></a></p>
+ <p align="center"><a href="https://www.last.fm/user/MurdocN"><img src="https://lastfm-recently-played.vercel.app/api?user=MurdocN&count=2&width=300&show_user=footer&footer_style=normal_stats&header_size=normal" height="auto" width="auto"/></a></p>
 
 <h3 align="center" >You can find me at</h3>
 <div align="center">
