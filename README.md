@@ -1,8 +1,8 @@
-<h3 align="center" >Hi there 👋, I am Tushar Gogna</h3>
+<h3 align="center" ><img  src="https://capsule-render.vercel.app/api?type=venom&color=auto&section=header&height=200&text=Hi%20there%20👋,%20I%20am%20Tushar%20Gogna&fontSize=36&desc=(Lead%20Mobile%20Engineer)&descSize=22&fontColor=FFFFFF""></h3>
 
 <p align="center">
   <a href="https://tushargogna.github.io">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Seasoned%20Android%20Developer;Certified%20Kotlin%20Developer;Over%209%20years%20of%20coding%20bg;Aspiring%20iOS%20and%20KMP%20developer&font=Fira%20Code&center=true&width=440&height=45&color=48C16B&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Seasoned%20Android%20Developer;Certified%20Kotlin%20Developer;Over%209%20years%20of%20coding%20bg;Aspiring%20iOS%20and%20KMP%20developer&font=Fira%20Code&center=true&width=440&height=45&color=48C16B&vCenter=true&pause=1000&size=28" /></a>
 </p>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
   
 
-  <p align="center"><img  src="https://github-readme-activity-graph.vercel.app/graph?username=tushargogna&theme=github-dark-dimmed&custom_title=Tushar%27s%20Activity%20Graph&hide_border=true"></p>
+<p align="center"><img  src="https://github-readme-activity-graph.vercel.app/graph?username=tushargogna&theme=github-dark-dimmed&custom_title=Tushar%27s%20Activity%20Graph&hide_border=true"></p>
 
  
 
