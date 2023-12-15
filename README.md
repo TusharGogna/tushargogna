@@ -1,4 +1,4 @@
-<h3 align="center" ><img  src="https://capsule-render.vercel.app/api?type=venom&color=auto&section=header&height=200&text=Hi%20there%20👋,%20I%20am%20Tushar%20Gogna&fontSize=36&desc=(Lead%20Mobile%20Engineer)&descSize=22&fontColor=FFFFFF""></h3>
+<h3 align="center" ><img  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&height=200&text=Hi%20there%20👋,%20I%20am%20Tushar%20Gogna&fontSize=36&desc=(Lead%20Mobile%20Engineer)&descSize=24&fontColor=FFFFFF&fontAlignY=30&descAlignY=52"></h3>
 
 <p align="center">
   <a href="https://tushargogna.github.io">
