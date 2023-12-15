@@ -1,38 +1,48 @@
-<h3 align="center" >Hi there 👋, I am Tushar Gogna</h1>
+<h3 align="center" >Hi there 👋, I am Tushar Gogna</h3>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Seasoned%20Android%20Developer;Certified%20Kotlin%20Developer;Over%209%20years%20of%20coding%20bg;Aspiring%20iOS%20and%20KMP%20developer&font=Fira%20Code&center=true&width=440&height=45&color=48C16B&vCenter=true&pause=1000&size=22" /></a>
 </p>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=tushargogna&&style=flat-square" align="center" />
+</div>  
+  
 
 - 💬 Ask me about Android, Kotlin, Core Java and Jetpack Compose.
-- 🌱 I’m currently learning Swift for iOS application development and also KMP for cross-platform development. 
+- 🌱 I’m currently learning Swift for iOS application development and also KMP for cross-platform development.
 
+  
 
-[ <p align="center"><img  src="https://github-readme-stackoverflow.vercel.app/?userID=3531756&theme=dark&layout=compact"></p>](stackoverflow.com/users/3531756/tushar-gogna)
+  <p align="center"><img  src="https://github-readme-activity-graph.vercel.app/graph?username=tushargogna&theme=github-dark-dimmed&custom_title=Tushar%27s%20Activity%20Graph&hide_border=true"></p>
+
+ 
+
+[<p align="center"><img  src="https://github-readme-stackoverflow.vercel.app/?userID=3531756&theme=dark"></p>](stackoverflow.com/users/3531756/tushar-gogna)
  
  
  
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushargogna&locale=en&layout=compact" alt="tg" /></p>
 
 
- <p align="center">The song which I was just listening to:</br><a href="https://www.last.fm/user/MurdocN"><img src="https://lastfm-recently-played.vercel.app/api?user=MurdocN&count=1&width=300&header_style=none" height="auto" width="auto"/></a></p>
+ <p align="center"><a href="https://www.last.fm/user/MurdocN"><img src="https://lastfm-recently-played.vercel.app/api?user=MurdocN&count=3&width=300&show_user=footer&footer_style=normal_stats&header_size=normal" height="auto" width="auto"/></a></p>
 
- <p align="center"></br>Total Profile Visits:</br><img align="center" src="https://profile-counter.glitch.me/tushargogna/count.svg" alt="tg" /></p>
-
-<!--
-**TusharGogna/tushargogna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<h3 align="center" >You can find me at</h3>
+<div align="center">
+<a href="https://github.com/tushargogna" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/tushargogna" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/tushargogna" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/3531756" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://dribbble.com/tushargogna" target="_blank">
+<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
+</a>  
+</div>  
+ 
