@@ -26,8 +26,10 @@
  
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushargogna&locale=en&layout=compact" alt="tg" /></p>
 
-
  <p align="center"><a href="https://www.last.fm/user/MurdocN"><img src="https://lastfm-recently-played.vercel.app/api?user=MurdocN&count=2&width=300&show_user=footer&footer_style=normal_stats&header_size=normal" height="auto" width="auto"/></a></p>
+
+ <p align="center"><a href="https://www.buymeacoffee.com/tushargogna" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</p>
 
 <h3 align="center" >You can find me at</h3>
 <div align="center">
