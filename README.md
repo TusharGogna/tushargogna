@@ -11,7 +11,7 @@
   </br>
 
 
-- 💬 Ask me about Android, Kotlin, Core Java, Swift, Jetpack Compose and SwiftUI.
+- 💬 Ask me about Android, Kotlin, Core Java & Jetpack Compose.
 - 🌱 I’m currently learning  KMP for cross-platform development and improving my knowledge about Swift for iOS application development.
 
   
